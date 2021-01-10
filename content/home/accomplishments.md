@@ -33,17 +33,17 @@ item:
   
 - date_start: "2020-08-01"
   date_end: "2021-05-01"
-  description: "General member in 2017/2018 and 2018/2019, committee member in 2019/2020 where I was the twitter PRO and led the team in charge of sponsorship. That year we were sponsored by 6 companies who donated a total of €3,500. We used the money to purchase and install water fountains on campus which allows our students to reduce their plastic waste. As president, I chaired the meetings, organised a 12 days of Christmas competition which saw our social media following more than double on Instagram and Twitter, and ***."
+  description: "General member in 2017/2018 and 2018/2019, committee member in 2019/2020 where I was the twitter PRO and led the team in charge of sponsorship. That year we were sponsored by 6 companies who donated a total of €3,500. We used the money to purchase and install water fountains on campus which allows our students to reduce their plastic waste. As president, I chaired the meetings, coordinated the organisation a 12 days of Christmas competition which saw our social media following more than double on Instagram and Twitter, and coordinated the promotion of An Taisce's National clean."
   organization: University of Limerick
 #  organization_url: 
   title: Environmental Society President
   url: "https://ulwolves.ie/society/enviromental"
   
-- date_start: "2017-10-01"
-  date_end: "2021-10-01"
+- date_start: "2021-10-01"
+  date_end: ""
   description: ""
   organization: Irish Research Council and Coillte
-  title: Awarded an employment based PhD scholarship
+  title: Awarded an employment based PhD scholarship (October 2017)
   url: "http://research.ie/awardees/"
 
 - date_start: "2019-10-01"
