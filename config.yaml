@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Dylan Walshe
-baseurl: ''
+baseurl: 'https://dylanwalshe.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
