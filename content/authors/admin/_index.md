@@ -2,13 +2,13 @@
 bio: I'm a final year PhD student sponsored by Coillte and the Irish Research Council.
 education:
   courses:
-  - course: PhD in Remote sensing and forestry
+  - course: PhD in Remote Sensing and Forestry
     institution: University of Limerick
     year: 2021
   - course: MSc in Climate Change
     institution: Maynooth University
     year: 2017
-  - course: BSc in Science teaching
+  - course: BSc in Science Teaching
     institution: University of Limerick
     year: 2016
 email: ""
