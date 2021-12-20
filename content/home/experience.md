@@ -40,7 +40,7 @@ experience:
       Location: 'Chicago, USA'
       date_start: '2016-05-01'
       date_end: '2016-08-01'
-      description: 'I organised the tickets and any personal requests to ensure each cruise left on time. I was also in charge of handling complaints.'
+      description: 'I organised the tickets for three cruises each day, ensured everything on the pier was in order to ensure each cruise left on time, and took care of any personal requests. I was also in charge of handling complaints.'
      
     - title: 'Summer intern'
       company: 'Environmental Protection Agency'

@@ -36,6 +36,21 @@ item:
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
 
+  - title: Woodworking
+    #content: ''
+    align: center
+    #overlay_color: '#333'
+    overlay_img: 'Mirror2_cropped_v2.jpg'
+    overlay_filter: 0.2
+ 
+  - title: Sports
+    #content: ''
+    align: center
+    #overlay_color: '#333'
+    overlay_img: 'baseball_cropped2.JPG'
+    overlay_filter: 0.2
+ 
+ 
   - title: Drones
     #content: ''
     align: center
@@ -50,14 +65,8 @@ item:
     overlay_img: 'burned_cropped.JPG'
     overlay_filter: 0.2
  
-  - title: Sports
-    #content: ''
-    align: center
-    #overlay_color: '#333'
-    overlay_img: 'baseball_cropped2.JPG'
-    overlay_filter: 0.2
- 
- 
+  
+  
  
  
  

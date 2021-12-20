@@ -32,7 +32,7 @@ feature:
   name: Statistics
 
 - #description: 90%
-  icon: QGIS_logo_2017
+  icon: QGIS1
   icon_pack: "custom"
   name: QGIS
 

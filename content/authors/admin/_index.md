@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Remote Sensing and Forestry
     institution: University of Limerick
-    year: 2021
+    year: 2022
   - course: MSc in Climate Change
     institution: Maynooth University
     year: 2017
@@ -17,6 +17,10 @@ interests:
 - Remote sensing
 - Forestry
 - Climate change
+- Dogs
+- Woodworking
+- Drones
+- Comedy
 organizations:
 - name: University of Limerick 
   url: https://www.ul.ie/
