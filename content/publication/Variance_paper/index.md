@@ -4,7 +4,7 @@ abstract: Combining auxiliary variables and field inventory data of forest param
 authors:
 - Dylan Walshe, Daniel McInerney, João Paulo Pereira, and Kenneth A. Byrne
 date: "2021-11-20T00:00:00Z"
-doi: "https://www.mdpi.com/2072-4292/13/22/4688"
+doi: "https://doi.org/10.3390/rs13224688"
 featured: false
 image:
   caption: ''
