@@ -14,13 +14,11 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Remote sensing
-- Forestry
-- Climate change
-- Dogs
-- Woodworking
-- Drones
-- Comedy
+- Woodworking/woodturning
+- CNC and laser engraving
+- Drones and imagery
+- Walking my dogs
+- Rugby, soccer, baseball
 organizations:
 - name: University of Limerick 
   url: https://www.ul.ie/

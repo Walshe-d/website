@@ -36,14 +36,14 @@ item:
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
 
-  - title: Woodworking
+  - title: Woodworking/woodturning
     #content: ''
     align: center
     #overlay_color: '#333'
     overlay_img: 'Mirror2_cropped_v2.jpg'
     overlay_filter: 0.2
  
-  - title: Sports
+  - title: Sports - baseball, rugby, soccer
     #content: ''
     align: center
     #overlay_color: '#333'
@@ -51,19 +51,19 @@ item:
     overlay_filter: 0.2
  
  
-  - title: Drones
+  - title: Drones and imagery
     #content: ''
     align: center
     overlay_color: '#555'
     overlay_img: 'drone_resized.JPG'
     overlay_filter: 0.2  
     
-  - title: Satellite images / Maps
-    #content: ''
-    align: center
-    #overlay_color: '#333'
-    overlay_img: 'burned_cropped.JPG'
-    overlay_filter: 0.2
+  #- title: Satellite images / Maps
+  #  #content: ''
+  #  align: center
+  #  #overlay_color: '#333'
+  #  overlay_img: 'burned_cropped.JPG'
+  #  overlay_filter: 0.2
  
   
   

@@ -42,7 +42,12 @@ item:
   
 - date_start: "2020-08-01"
   date_end: "2021-09-01"
-  description: "General member in 2017/2018 and 2018/2019, committee member in 2019/2020 and President in 2020/2021. As a general member I was involved with many projects but my favourite was building a water bottle collector in the shape of the letters UL for the university to highlight the amount of water bottles consumed by students. As a committee member I was the twitter PRO and team lead in charge of sponsorship. That year we were sponsored by 5 companies who donated a total of €3,500. We used the money to purchase and install water fountains on campus which allows our students to reduce their plastic waste. As president during the pandemic, I chaired the online meetings, organised the online games we would play after each meeting and coordinated a 12 days of Christmas competition which saw our social media following more than double on Instagram and Twitter. We won the University of Limerick's Clubs and Societies Best event award for this event."
+  description: "
+  * As a general member (2017/2018, 2018/2019), I was involved with many projects but my favourite was building a water bottle collector in the shape of the letters UL for the university to highlight the amount of water bottles consumed by students. 
+    
+  * As a committee member (2019/2020), I was the twitter PRO and team lead in charge of sponsorship. That year we were sponsored by 5 companies who donated a total of €3,500. We used the money to purchase and install water fountains on campus which allows our students to reduce their plastic waste. 
+  
+  * As president during the pandemic (2020/2021), I chaired the online meetings, organised the online games we would play after each meeting and coordinated a 12 days of Christmas competition which saw our social media following more than double on Instagram and Twitter. We won the University of Limerick's Clubs and Societies Best event award for this event."
   organization: University of Limerick
 #  organization_url: 
   title: UL Environmental Society
@@ -51,7 +56,7 @@ item:
 
 - date_start: "2019-10-01"
   date_end: "2020-10-01"
-  description: "Although I was awarded a scholarship in 2019 I was unable to travel to canada due to the pandemic."
+  description: "Although I was awarded a scholarship in 2019 I was unable to travel to Canada due to the pandemic."
   organization: Irish Canada University Foundation
   title: Awarded a Dobbin Atlantic scholarship
   url: "http://www.icuf.ie/dylan-walshe/"
